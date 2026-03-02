@@ -1,0 +1,13 @@
+{
+  "your_name": "Your Name",
+  "booking_link": "https://calendly.com/your-link",
+  "email": "you@example.com",
+  "case_study_or_proof_link": "https://your-site.com/case-study",
+  "default_client_name": "Acme SaaS",
+  "default_proposal_date": "2026-03-02",
+  "default_start_date": "2026-03-09",
+  "default_end_date": "2026-03-30",
+  "default_total_fee": "$5,000",
+  "default_payment_terms": "50% upfront, 50% on day 21",
+  "default_monthly_fee": "$2,000"
+}
