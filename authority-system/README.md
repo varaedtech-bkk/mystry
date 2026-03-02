@@ -43,6 +43,15 @@ This folder is a complete operating system for selling and delivering the **PRIS
 - `tracking/pipeline-scorecard.csv`  
   Lightweight tracking sheet for outreach, calls, proposals, and wins.
 
+- `verticals/financial-saas-gap.md`  
+  Market gap and positioning for a financial-system SaaS play.
+
+- `verticals/financial-saas-mvp-spec.md`  
+  Functional MVP scope for an audit-ready revenue integrity product.
+
+- `verticals/financial-saas-outreach.md`  
+  Persona-targeted outreach scripts for SaaS finance buyers.
+
 ## Generate Your Personalized Launch Pack
 
 1. Copy `config.example.json` and update values.

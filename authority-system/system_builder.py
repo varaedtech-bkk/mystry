@@ -31,6 +31,9 @@ DEFAULT_FILES: List[str] = [
     "templates/proposal-template.md",
     "templates/client-intake-form.md",
     "tracking/pipeline-scorecard.csv",
+    "verticals/financial-saas-gap.md",
+    "verticals/financial-saas-mvp-spec.md",
+    "verticals/financial-saas-outreach.md",
 ]
 
 

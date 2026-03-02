@@ -26,6 +26,7 @@ python3 authority-system/system_builder.py \
 5. Qualify and close with [`authority-system/sales-operating-system.md`](authority-system/sales-operating-system.md).
 6. Deliver consistently using [`authority-system/fulfillment-sop.md`](authority-system/fulfillment-sop.md).
 7. Track outcomes with [`authority-system/tracking/pipeline-scorecard.csv`](authority-system/tracking/pipeline-scorecard.csv).
+8. Use the finance niche pack in [`authority-system/verticals/financial-saas-gap.md`](authority-system/verticals/financial-saas-gap.md).
 
 ## System Objective
 
